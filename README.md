@@ -9,4 +9,6 @@ The purpose in doing this challenge was to get myself familiar with using JavaSc
 
 ## Deployment link
 
+https://dav3ster.github.io/Password-generator/
+
 https://dav3ster.github.io/
